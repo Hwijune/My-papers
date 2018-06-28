@@ -1,5 +1,4 @@
 # My-papers
-My-papers
 
 제가 쓴 논문 목록입니다.
 
