@@ -9,6 +9,6 @@ My Paper List
 3. Unusual Event Detection Algorithm via Personalized Daily Activity and Vision Patterns for Single Households 
 - Waiting for publication, ObjectDetection+gyroscope
 
-![ex_screenshot](./1.png)
-![ex_screenshot](./3.png)
-![ex_screenshot](./2.png)
+![ex_screenshot](./img/1.png)
+![ex_screenshot](./img/3.png)
+![ex_screenshot](./img/2.png)
