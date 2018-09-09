@@ -1,6 +1,6 @@
 # My-papers
 
-제가 쓴 논문 목록입니다.
+My Paper List
 
 1. Personalized Unusual Event Detection Algorithm at Smart Home via Daily Activity and Vision Pattern
 - ObjectDetection+gyroscope
@@ -10,3 +10,5 @@
 - Waiting for publication, ObjectDetection+gyroscope
 
 ![ex_screenshot](./1.png)
+![ex_screenshot](./3.png)
+![ex_screenshot](./2.png)
